@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+}
+
+#toolbar {
+    padding: 5px;
+}
+
+.handle {
+    width: 21px;
+    height: 17px;
+    background-color: #CCDDDD;
+    cursor: pointer;
+}
+
+.title {
+    margin: 0px;
+    user-select: none;
+}
+
+.hidden {
+    display: none;
+}
