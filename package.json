@@ -1,0 +1,19 @@
+{
+  "name": "visualnotes",
+  "version": "1.0.0",
+  "description": "Visual note/mind map program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Dummo/VisualNotes.git"
+  },
+  "author": "A-Dummo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Dummo/VisualNotes/issues"
+  },
+  "homepage": "https://github.com/A-Dummo/VisualNotes#readme"
+}
